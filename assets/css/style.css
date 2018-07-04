@@ -1,0 +1,31 @@
+/* Navbar */
+
+.icon-bar {
+  background-color: #fff;
+}
+
+.navbar-brand img {
+    width: 50px;
+    margin: 0;
+}
+.navbar-nav > li > a{
+  color: #fff;
+  text-shadow: none;
+  text-transform: uppercase;
+}
+.nav > li > a:hover {
+  background-color: initial;
+  color: hsla(0, 0%, 100%, .5);
+}
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0;
+    padding: 10px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+
+
+.col-md-12{
+	background-image: url(../images/banner1.jpg);
+}
